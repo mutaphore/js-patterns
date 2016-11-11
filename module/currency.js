@@ -9,6 +9,7 @@ const currency =
         if (!rounded) {
           rounded = cache[amount] = Math.round(amount * 100) / 100;
         }
+        return rounded;
       }
     };
   }());
