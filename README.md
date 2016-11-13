@@ -12,7 +12,7 @@ Collection of commonly used Javascript design patterns.
 # Structural
 * Decorator pattern
 * Facade pattern
-* Flyweight
+* Flyweight pattern
 
 # Behavioral
 * Observer pattern
